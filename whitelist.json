@@ -72,61 +72,7 @@
       "4660753636": "MochiZaBest"
     }
   },
-  "command": {
-    "saenoplay": {
-      "4610021746": "Frostbiteuser13",
-      "4399740696": "wlllworks"
-    },
-    "autogk": {
-      "1214902471": "inveint",
-      "3823494994": "RealExtis",
-      "4660753636": "Tygamason1789",
-      "4610021746": "Frostbiteuser13"
-    },
-    "style": {
-      "2460992663": "lloydgarmadon43real"
-    },
-    "givestyle": {
-      "2460992663": "lloydgarmadon43real"
-    },
-    "drawshot3": {
-      "3698248118": "Skilliote"
-    },
-    "rinnoplay": {
-      "103333938": "Tencelllbackup",
-      "977590007": "dk20552",
-      "1214902471": "inveint"
-    },
-    "cc": {
-      "103333938": "Tencelllbackup",
-      "1214902471": "inveint"
-    },
-    "overtimetest": {
-      "103333938": "Tencelllbackup"
-    },
-    "ignoreflowcooldown": {
-      "103333938": "Tencelllbackup"
-    },
-    "flow": {
-      "103333938": "Tencelllbackup"
-    },
-    "f": {
-      "103333938": "Tencelllbackup",
-      "977590007": "dk20552"
-    },
-    "ncd": {
-      "977590007": "dk20552"
-    },
-    "chillonlou": {
-      "3823494994": "RealExtis"
-    },
-    "hitboxes": {
-      "4660753636": "MochiZaBest"
-    },
-    "mindcontrol": {
-      "4660753636": "MochiZaBest"
-    }
-  },
+  "command": {},
   "mvp": {
     "kanekimvp": {
       "1312527822": "xz3tq"
